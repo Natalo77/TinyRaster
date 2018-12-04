@@ -1,0 +1,49 @@
+﻿  AssignmentTests.cpp
+  Framebuffer.cpp
+  TestApplication.cpp
+  AppWindow.cpp
+AppWindow.cpp(189): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+AppWindow.cpp(244): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Rasterizer.cpp
+Rasterizer.cpp(127): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(128): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(142): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(143): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(149): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(150): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(151): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(167): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(194): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Rasterizer.cpp(198): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(200): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(204): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(206): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(246): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+Rasterizer.cpp(255): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+Rasterizer.cpp(262): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+Rasterizer.cpp(304): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Rasterizer.cpp(340): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(341): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(412): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(413): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(417): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(418): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Rasterizer.cpp(441): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+Rasterizer.cpp(442): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+Rasterizer.cpp(471): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Rasterizer.cpp(472): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Rasterizer.cpp(480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Rasterizer.cpp(481): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Rasterizer.cpp(493): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Rasterizer.cpp(494): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Rasterizer.cpp(511): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Rasterizer.cpp(524): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TinyRasterMain.cpp
+  Vector2.cpp
+  Vector3.cpp
+Vector3.cpp(85): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Vector4.cpp
+  Generating code
+  All 259 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TinyRaster.vcxproj -> F:\1. University files\Studio 1\TinyRaster 2\TinyRaster\x64\Release\TinyRaster.exe

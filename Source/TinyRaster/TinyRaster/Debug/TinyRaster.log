@@ -1,0 +1,11 @@
+﻿  Rasterizer.cpp
+c:\users\scommc2\documents\tinyraster\tinyraster\tinyraster\rasterizer.cpp(127): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\scommc2\documents\tinyraster\tinyraster\tinyraster\rasterizer.cpp(128): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\scommc2\documents\tinyraster\tinyraster\tinyraster\rasterizer.cpp(157): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\scommc2\documents\tinyraster\tinyraster\tinyraster\rasterizer.cpp(158): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\scommc2\documents\tinyraster\tinyraster\tinyraster\rasterizer.cpp(162): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\scommc2\documents\tinyraster\tinyraster\tinyraster\rasterizer.cpp(163): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\scommc2\documents\tinyraster\tinyraster\tinyraster\rasterizer.cpp(164): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\scommc2\documents\tinyraster\tinyraster\tinyraster\rasterizer.cpp(168): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TinyRaster.vcxproj -> C:\Users\scommc2\Documents\TinyRaster\TinyRaster\Debug\TinyRaster.exe
+  TinyRaster.vcxproj -> C:\Users\scommc2\Documents\TinyRaster\TinyRaster\Debug\TinyRaster.pdb (Full PDB)

@@ -1,0 +1,33 @@
+﻿  Rasterizer.cpp
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(127): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(128): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(151): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(152): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(158): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(159): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(160): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(175): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(203): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(207): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(209): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(215): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(255): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(264): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(271): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(313): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(348): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(349): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(420): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(421): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(424): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(425): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(451): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(452): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(478): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(479): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(487): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(488): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(512): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\1. university files\studio 1\tinyraster\tinyraster\rasterizer.cpp(526): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  TinyRaster.vcxproj -> F:\1. University files\Studio 1\TinyRaster\x64\Debug\TinyRaster.exe
